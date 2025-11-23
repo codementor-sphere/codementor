@@ -26,4 +26,4 @@ RUN chown -R www-data:www-data /var/www/html \
 
 EXPOSE 80
 
-# The default 'CMD' in this image is to start Apache in the foreground.
+# The default 'CMD' in this image is to start Apache in
