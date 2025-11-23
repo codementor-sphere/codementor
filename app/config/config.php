@@ -79,7 +79,7 @@ $config['ENVIRONMENT']             = 'development';
 | WARNING: You MUST set this value!
 |
 */
-$config['base_url'] 				= 'https://codementor-5umg.onrender.com';
+$config['base_url'] 				= 'https://codementor-5umg.onrender.com:3000';
 
 /*
 |--------------------------------------------------------------------------
